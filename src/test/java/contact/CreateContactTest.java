@@ -6,6 +6,7 @@ public class CreateContactTest {
 		System.out.println("CreateContactTest executed");
 		System.out.println("Updated");
 		System.out.println("*******");
+		System.out.println("&&&&&&&&&&&&&&");
 
 	}
 
